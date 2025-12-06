@@ -1,0 +1,7 @@
+{
+  "name": "CreativeStudio AI",
+  "description": "A comprehensive creative suite powered by Gemini. Generate images, videos, speech, and lyrics using the latest Google GenAI models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
